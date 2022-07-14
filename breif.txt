@@ -1,0 +1,32 @@
+git commands
+
+git init
+git status
+git add .
+git commit -m "Frist Commit" 
+git config --global user.email "Yourmai@gmail.com"
+git branch -M Master
+git remote add origin url - Https://
+git push -u origin master
+not wokring - some refs issues aroses
+git commit -m "Second Commit" 
+again 
+git push -u orgin master 
+asking for the credinteials 
+
+E:\Projects\redux-tut>git push -u origin master
+Enumerating objects: 22, done.
+Counting objects: 100% (22/22), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (22/22), done.
+Writing objects: 100% (22/22), 301.92 KiB | 8.63 MiB/s, done.
+Total 22 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/ncodify/react-redux-tut/pull/new/master
+remote:
+To https://github.com/ncodify/react-redux-tut.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+E:\Projects\redux-tut>
